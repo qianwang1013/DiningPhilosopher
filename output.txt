@@ -1,0 +1,831 @@
+Our 10 philosophers (Seneca, Aristotle, Epicurius, Voltaire, Kant, Machiavelli, Nietzsche, Socrates, Frege, and Hume) have gather to think and dine
+-----------------------------------------------
+Seneca is begining to think for 1199 milliseconds
+Aristotle is begining to think for 2116 milliseconds
+Epicurius is begining to think for 4684 milliseconds
+Kant is begining to think for 3705 milliseconds
+Voltaire is begining to think for 4508 milliseconds
+Machiavelli is begining to think for 2779 milliseconds
+Socrates is begining to think for 3896 milliseconds
+Frege is begining to think for 2745 milliseconds
+Nietzsche is begining to think for 4411 milliseconds
+Hume is begining to think for 4835 milliseconds
+Seneca is done thinking
+Seneca wants right chopstick (1)
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Seneca has both left chopstick (0) and right chopstick (1)
+Seneca is begining to eat for 1003 milliseconds
+Aristotle is done thinking
+Aristotle wants right chopstick (2)
+Aristotle has right chopstick (2)
+Aristotle wants left chopstick (1)
+Aristotle was unable to get the left chopstick (1)
+Aristotle politely returned right chopstick (2)
+Seneca is done eating
+Seneca finished using right chopstick (1)
+Aristotle wants right chopstick (2)
+Aristotle has right chopstick (2)
+Aristotle wants left chopstick (1)
+Seneca finished using left chopstick (0)
+Aristotle has both left chopstick (1) and right chopstick (2)
+Seneca is begining to think for 1046 milliseconds
+Aristotle is begining to eat for 3505 milliseconds
+Frege is done thinking
+Frege wants right chopstick (9)
+Frege has right chopstick (9)
+Frege wants left chopstick (8)
+Frege has both left chopstick (8) and right chopstick (9)
+Frege is begining to eat for 3239 milliseconds
+Machiavelli is done thinking
+Machiavelli wants right chopstick (6)
+Machiavelli has right chopstick (6)
+Machiavelli wants left chopstick (5)
+Machiavelli has both left chopstick (5) and right chopstick (6)
+Machiavelli is begining to eat for 3818 milliseconds
+Seneca is done thinking
+Seneca wants right chopstick (1)
+Kant is done thinking
+Kant wants right chopstick (5)
+Socrates is done thinking
+Socrates wants right chopstick (8)
+Nietzsche is done thinking
+Nietzsche wants right chopstick (7)
+Nietzsche has right chopstick (7)
+Nietzsche wants left chopstick (6)
+Nietzsche was unable to get the left chopstick (6)
+Nietzsche politely returned right chopstick (7)
+Voltaire is done thinking
+Voltaire wants right chopstick (4)
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Voltaire has both left chopstick (3) and right chopstick (4)
+Voltaire is begining to eat for 1036 milliseconds
+Epicurius is done thinking
+Epicurius wants right chopstick (3)
+Hume is done thinking
+Hume wants right chopstick (0)
+Hume has right chopstick (0)
+Hume wants left chopstick (9)
+Hume was unable to get the left chopstick (9)
+Hume politely returned right chopstick (0)
+Voltaire is done eating
+Voltaire finished using right chopstick (4)
+Voltaire finished using left chopstick (3)
+Epicurius has right chopstick (3)
+Epicurius wants left chopstick (2)
+Voltaire is begining to think for 3820 milliseconds
+Epicurius was unable to get the left chopstick (2)
+Epicurius politely returned right chopstick (3)
+Aristotle is done eating
+Aristotle finished using right chopstick (2)
+Epicurius wants right chopstick (3)
+Epicurius has right chopstick (3)
+Epicurius wants left chopstick (2)
+Epicurius has both left chopstick (2) and right chopstick (3)
+Epicurius is begining to eat for 4817 milliseconds
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Aristotle finished using left chopstick (1)
+Aristotle is begining to think for 2506 milliseconds
+Frege is done eating
+Frege finished using right chopstick (9)
+Frege finished using left chopstick (8)
+Hume wants right chopstick (0)
+Frege is begining to think for 3955 milliseconds
+Socrates has right chopstick (8)
+Hume has right chopstick (0)
+Hume wants left chopstick (9)
+Socrates wants left chopstick (7)
+Hume has both left chopstick (9) and right chopstick (0)
+Hume is begining to eat for 2424 milliseconds
+Seneca was unable to get the left chopstick (0)
+Seneca politely returned right chopstick (1)
+Machiavelli is done eating
+Machiavelli finished using right chopstick (6)
+Nietzsche wants right chopstick (7)
+Nietzsche has right chopstick (7)
+Nietzsche wants left chopstick (6)
+Nietzsche has both left chopstick (6) and right chopstick (7)
+Nietzsche is begining to eat for 4943 milliseconds
+Kant has right chopstick (5)
+Machiavelli finished using left chopstick (5)
+Kant wants left chopstick (4)
+Kant has both left chopstick (4) and right chopstick (5)
+Kant is begining to eat for 3229 milliseconds
+Socrates was unable to get the left chopstick (7)
+Socrates politely returned right chopstick (8)
+Machiavelli is begining to think for 1395 milliseconds
+Machiavelli is done thinking
+Machiavelli wants right chopstick (6)
+Aristotle is done thinking
+Aristotle wants right chopstick (2)
+Hume is done eating
+Hume finished using right chopstick (0)
+Seneca wants right chopstick (1)
+Hume finished using left chopstick (9)
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Seneca has both left chopstick (0) and right chopstick (1)
+Seneca is begining to eat for 3428 milliseconds
+Hume is begining to think for 1585 milliseconds
+Voltaire is done thinking
+Voltaire wants right chopstick (4)
+Kant is done eating
+Kant finished using right chopstick (5)
+Kant finished using left chopstick (4)
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Voltaire was unable to get the left chopstick (3)
+Voltaire politely returned right chopstick (4)
+Kant is begining to think for 4544 milliseconds
+Frege is done thinking
+Frege wants right chopstick (9)
+Frege has right chopstick (9)
+Frege wants left chopstick (8)
+Hume is done thinking
+Hume wants right chopstick (0)
+Epicurius is done eating
+Epicurius finished using right chopstick (3)
+Voltaire wants right chopstick (4)
+Voltaire has right chopstick (4)
+Aristotle has right chopstick (2)
+Aristotle wants left chopstick (1)
+Aristotle was unable to get the left chopstick (1)
+Aristotle politely returned right chopstick (2)
+Epicurius finished using left chopstick (2)
+Voltaire wants left chopstick (3)
+Voltaire has both left chopstick (3) and right chopstick (4)
+Voltaire is begining to eat for 2258 milliseconds
+Epicurius is begining to think for 4011 milliseconds
+Nietzsche is done eating
+Nietzsche finished using right chopstick (7)
+Nietzsche finished using left chopstick (6)
+Nietzsche is begining to think for 1288 milliseconds
+Machiavelli has right chopstick (6)
+Machiavelli wants left chopstick (5)
+Machiavelli has both left chopstick (5) and right chopstick (6)
+Machiavelli is begining to eat for 3010 milliseconds
+Socrates wants right chopstick (8)
+Socrates has right chopstick (8)
+Socrates wants left chopstick (7)
+Socrates has both left chopstick (7) and right chopstick (8)
+Socrates is begining to eat for 4492 milliseconds
+Frege was unable to get the left chopstick (8)
+Frege politely returned right chopstick (9)
+Seneca is done eating
+Seneca finished using right chopstick (1)
+Aristotle wants right chopstick (2)
+Hume has right chopstick (0)
+Seneca finished using left chopstick (0)
+Hume wants left chopstick (9)
+Aristotle has right chopstick (2)
+Seneca is begining to think for 1164 milliseconds
+Aristotle wants left chopstick (1)
+Aristotle has both left chopstick (1) and right chopstick (2)
+Aristotle is begining to eat for 2781 milliseconds
+Voltaire is done eating
+Voltaire finished using right chopstick (4)
+Voltaire finished using left chopstick (3)
+Voltaire is begining to think for 1445 milliseconds
+Nietzsche is done thinking
+Nietzsche wants right chopstick (7)
+Seneca is done thinking
+Seneca wants right chopstick (1)
+Voltaire is done thinking
+Voltaire wants right chopstick (4)
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Voltaire has both left chopstick (3) and right chopstick (4)
+Voltaire is begining to eat for 2516 milliseconds
+Kant is done thinking
+Kant wants right chopstick (5)
+Epicurius is done thinking
+Epicurius wants right chopstick (3)
+Machiavelli is done eating
+Machiavelli finished using right chopstick (6)
+Machiavelli finished using left chopstick (5)
+Kant has right chopstick (5)
+Kant wants left chopstick (4)
+Kant was unable to get the left chopstick (4)
+Kant politely returned right chopstick (5)
+Machiavelli is begining to think for 4370 milliseconds
+Aristotle is done eating
+Aristotle finished using right chopstick (2)
+Aristotle finished using left chopstick (1)
+Aristotle is begining to think for 1967 milliseconds
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Socrates is done eating
+Socrates finished using right chopstick (8)
+Frege wants right chopstick (9)
+Frege has right chopstick (9)
+Frege wants left chopstick (8)
+Nietzsche has right chopstick (7)
+Nietzsche wants left chopstick (6)
+Nietzsche has both left chopstick (6) and right chopstick (7)
+Socrates finished using left chopstick (7)
+Socrates is begining to think for 1461 milliseconds
+Nietzsche is begining to eat for 1418 milliseconds
+Frege has both left chopstick (8) and right chopstick (9)
+Frege is begining to eat for 1361 milliseconds
+Hume was unable to get the left chopstick (9)
+Hume politely returned right chopstick (0)
+Aristotle is done thinking
+Aristotle wants right chopstick (2)
+Aristotle has right chopstick (2)
+Aristotle wants left chopstick (1)
+Voltaire is done eating
+Voltaire finished using right chopstick (4)
+Kant wants right chopstick (5)
+Kant has right chopstick (5)
+Kant wants left chopstick (4)
+Kant has both left chopstick (4) and right chopstick (5)
+Epicurius has right chopstick (3)
+Epicurius wants left chopstick (2)
+Voltaire finished using left chopstick (3)
+Voltaire is begining to think for 2067 milliseconds
+Kant is begining to eat for 1959 milliseconds
+Frege is done eating
+Frege finished using right chopstick (9)
+Hume wants right chopstick (0)
+Frege finished using left chopstick (8)
+Frege is begining to think for 3644 milliseconds
+Hume has right chopstick (0)
+Hume wants left chopstick (9)
+Hume has both left chopstick (9) and right chopstick (0)
+Hume is begining to eat for 1309 milliseconds
+Seneca was unable to get the left chopstick (0)
+Seneca politely returned right chopstick (1)
+Nietzsche is done eating
+Nietzsche finished using right chopstick (7)
+Nietzsche finished using left chopstick (6)
+Nietzsche is begining to think for 1645 milliseconds
+Socrates is done thinking
+Socrates wants right chopstick (8)
+Socrates has right chopstick (8)
+Socrates wants left chopstick (7)
+Socrates has both left chopstick (7) and right chopstick (8)
+Socrates is begining to eat for 2621 milliseconds
+Hume is done eating
+Hume finished using right chopstick (0)
+Seneca wants right chopstick (1)
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Hume finished using left chopstick (9)
+Seneca has both left chopstick (0) and right chopstick (1)
+Seneca is begining to eat for 2151 milliseconds
+Hume is begining to think for 3562 milliseconds
+Aristotle was unable to get the left chopstick (1)
+Aristotle politely returned right chopstick (2)
+Kant is done eating
+Kant finished using right chopstick (5)
+Kant finished using left chopstick (4)
+Kant is begining to think for 4311 milliseconds
+Voltaire is done thinking
+Voltaire wants right chopstick (4)
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Machiavelli is done thinking
+Machiavelli wants right chopstick (6)
+Machiavelli has right chopstick (6)
+Machiavelli wants left chopstick (5)
+Machiavelli has both left chopstick (5) and right chopstick (6)
+Machiavelli is begining to eat for 2471 milliseconds
+Nietzsche is done thinking
+Nietzsche wants right chopstick (7)
+Socrates is done eating
+Socrates finished using right chopstick (8)
+Socrates finished using left chopstick (7)
+Nietzsche has right chopstick (7)
+Nietzsche wants left chopstick (6)
+Socrates is begining to think for 1805 milliseconds
+Nietzsche was unable to get the left chopstick (6)
+Nietzsche politely returned right chopstick (7)
+Seneca is done eating
+Seneca finished using right chopstick (1)
+Seneca finished using left chopstick (0)
+Aristotle wants right chopstick (2)
+Aristotle has right chopstick (2)
+Aristotle wants left chopstick (1)
+Aristotle has both left chopstick (1) and right chopstick (2)
+Aristotle is begining to eat for 1394 milliseconds
+Seneca is begining to think for 4619 milliseconds
+Epicurius was unable to get the left chopstick (2)
+Epicurius politely returned right chopstick (3)
+Frege is done thinking
+Frege wants right chopstick (9)
+Frege has right chopstick (9)
+Frege wants left chopstick (8)
+Frege has both left chopstick (8) and right chopstick (9)
+Frege is begining to eat for 3218 milliseconds
+Machiavelli is done eating
+Machiavelli finished using right chopstick (6)
+Machiavelli finished using left chopstick (5)
+Nietzsche wants right chopstick (7)
+Machiavelli is begining to think for 3739 milliseconds
+Nietzsche has right chopstick (7)
+Nietzsche wants left chopstick (6)
+Nietzsche has both left chopstick (6) and right chopstick (7)
+Nietzsche is begining to eat for 2117 milliseconds
+Socrates is done thinking
+Socrates wants right chopstick (8)
+Aristotle is done eating
+Aristotle finished using right chopstick (2)
+Aristotle finished using left chopstick (1)
+Aristotle is begining to think for 1995 milliseconds
+Epicurius wants right chopstick (3)
+Epicurius has right chopstick (3)
+Epicurius wants left chopstick (2)
+Epicurius has both left chopstick (2) and right chopstick (3)
+Epicurius is begining to eat for 1089 milliseconds
+Voltaire was unable to get the left chopstick (3)
+Voltaire politely returned right chopstick (4)
+Hume is done thinking
+Hume wants right chopstick (0)
+Hume has right chopstick (0)
+Hume wants left chopstick (9)
+Hume was unable to get the left chopstick (9)
+Hume politely returned right chopstick (0)
+Kant is done thinking
+Kant wants right chopstick (5)
+Kant has right chopstick (5)
+Kant wants left chopstick (4)
+Epicurius is done eating
+Epicurius finished using right chopstick (3)
+Epicurius finished using left chopstick (2)
+Epicurius is begining to think for 3595 milliseconds
+Voltaire wants right chopstick (4)
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Voltaire has both left chopstick (3) and right chopstick (4)
+Voltaire is begining to eat for 3651 milliseconds
+Kant was unable to get the left chopstick (4)
+Kant politely returned right chopstick (5)
+Nietzsche is done eating
+Nietzsche finished using right chopstick (7)
+Nietzsche finished using left chopstick (6)
+Nietzsche is begining to think for 1819 milliseconds
+Aristotle is done thinking
+Aristotle wants right chopstick (2)
+Aristotle has right chopstick (2)
+Aristotle wants left chopstick (1)
+Aristotle has both left chopstick (1) and right chopstick (2)
+Aristotle is begining to eat for 2911 milliseconds
+Frege is done eating
+Frege finished using right chopstick (9)
+Frege finished using left chopstick (8)
+Socrates has right chopstick (8)
+Socrates wants left chopstick (7)
+Socrates has both left chopstick (7) and right chopstick (8)
+Hume wants right chopstick (0)
+Socrates is begining to eat for 2262 milliseconds
+Frege is begining to think for 4911 milliseconds
+Hume has right chopstick (0)
+Hume wants left chopstick (9)
+Hume has both left chopstick (9) and right chopstick (0)
+Hume is begining to eat for 2829 milliseconds
+Machiavelli is done thinking
+Machiavelli wants right chopstick (6)
+Machiavelli has right chopstick (6)
+Machiavelli wants left chopstick (5)
+Nietzsche is done thinking
+Nietzsche wants right chopstick (7)
+Seneca is done thinking
+Seneca wants right chopstick (1)
+Socrates is done eating
+Socrates finished using right chopstick (8)
+Socrates finished using left chopstick (7)
+Socrates is begining to think for 2271 milliseconds
+Nietzsche has right chopstick (7)
+Nietzsche wants left chopstick (6)
+Epicurius is done thinking
+Epicurius wants right chopstick (3)
+Voltaire is done eating
+Voltaire finished using right chopstick (4)
+Voltaire finished using left chopstick (3)
+Kant wants right chopstick (5)
+Kant has right chopstick (5)
+Kant wants left chopstick (4)
+Kant has both left chopstick (4) and right chopstick (5)
+Kant is begining to eat for 1762 milliseconds
+Machiavelli was unable to get the left chopstick (5)
+Machiavelli politely returned right chopstick (6)
+Epicurius has right chopstick (3)
+Epicurius wants left chopstick (2)
+Epicurius was unable to get the left chopstick (2)
+Epicurius politely returned right chopstick (3)
+Voltaire is begining to think for 3890 milliseconds
+Hume is done eating
+Hume finished using right chopstick (0)
+Hume finished using left chopstick (9)
+Hume is begining to think for 3597 milliseconds
+Aristotle is done eating
+Aristotle finished using right chopstick (2)
+Epicurius wants right chopstick (3)
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Aristotle finished using left chopstick (1)
+Aristotle is begining to think for 4318 milliseconds
+Seneca has both left chopstick (0) and right chopstick (1)
+Epicurius has right chopstick (3)
+Epicurius wants left chopstick (2)
+Seneca is begining to eat for 1738 milliseconds
+Epicurius has both left chopstick (2) and right chopstick (3)
+Epicurius is begining to eat for 4693 milliseconds
+Kant is done eating
+Kant finished using right chopstick (5)
+Kant finished using left chopstick (4)
+Machiavelli wants right chopstick (6)
+Machiavelli has right chopstick (6)
+Machiavelli wants left chopstick (5)
+Machiavelli has both left chopstick (5) and right chopstick (6)
+Machiavelli is begining to eat for 3238 milliseconds
+Nietzsche was unable to get the left chopstick (6)
+Nietzsche politely returned right chopstick (7)
+Kant is begining to think for 4815 milliseconds
+Socrates is done thinking
+Socrates wants right chopstick (8)
+Socrates has right chopstick (8)
+Socrates wants left chopstick (7)
+Seneca is done eating
+Seneca finished using right chopstick (1)
+Seneca finished using left chopstick (0)
+Seneca is begining to think for 1530 milliseconds
+Frege is done thinking
+Frege wants right chopstick (9)
+Frege has right chopstick (9)
+Frege wants left chopstick (8)
+Seneca is done thinking
+Seneca wants right chopstick (1)
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Seneca has both left chopstick (0) and right chopstick (1)
+Seneca is begining to eat for 4276 milliseconds
+Hume is done thinking
+Hume wants right chopstick (0)
+Voltaire is done thinking
+Voltaire wants right chopstick (4)
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Voltaire was unable to get the left chopstick (3)
+Voltaire politely returned right chopstick (4)
+Aristotle is done thinking
+Aristotle wants right chopstick (2)
+Epicurius is done eating
+Epicurius finished using right chopstick (3)
+Voltaire wants right chopstick (4)
+Aristotle has right chopstick (2)
+Aristotle wants left chopstick (1)
+Aristotle was unable to get the left chopstick (1)
+Aristotle politely returned right chopstick (2)
+Epicurius finished using left chopstick (2)
+Epicurius is begining to think for 3289 milliseconds
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Voltaire has both left chopstick (3) and right chopstick (4)
+Voltaire is begining to eat for 1516 milliseconds
+Machiavelli is done eating
+Machiavelli finished using right chopstick (6)
+Machiavelli finished using left chopstick (5)
+Nietzsche wants right chopstick (7)
+Nietzsche has right chopstick (7)
+Nietzsche wants left chopstick (6)
+Nietzsche has both left chopstick (6) and right chopstick (7)
+Nietzsche is begining to eat for 2545 milliseconds
+Socrates was unable to get the left chopstick (7)
+Socrates politely returned right chopstick (8)
+Machiavelli is begining to think for 1287 milliseconds
+Machiavelli is done thinking
+Machiavelli wants right chopstick (6)
+Voltaire is done eating
+Voltaire finished using right chopstick (4)
+Voltaire finished using left chopstick (3)
+Voltaire is begining to think for 3406 milliseconds
+Kant is done thinking
+Kant wants right chopstick (5)
+Kant has right chopstick (5)
+Kant wants left chopstick (4)
+Kant has both left chopstick (4) and right chopstick (5)
+Kant is begining to eat for 1145 milliseconds
+Nietzsche is done eating
+Nietzsche finished using right chopstick (7)
+Socrates wants right chopstick (8)
+Machiavelli has right chopstick (6)
+Machiavelli wants left chopstick (5)
+Nietzsche finished using left chopstick (6)
+Nietzsche is begining to think for 2805 milliseconds
+Machiavelli was unable to get the left chopstick (5)
+Machiavelli politely returned right chopstick (6)
+Socrates has right chopstick (8)
+Socrates wants left chopstick (7)
+Socrates has both left chopstick (7) and right chopstick (8)
+Socrates is begining to eat for 3449 milliseconds
+Frege was unable to get the left chopstick (8)
+Frege politely returned right chopstick (9)
+Seneca is done eating
+Seneca finished using right chopstick (1)
+Seneca finished using left chopstick (0)
+Aristotle wants right chopstick (2)
+Aristotle has right chopstick (2)
+Hume has right chopstick (0)
+Hume wants left chopstick (9)
+Seneca is begining to think for 2840 milliseconds
+Aristotle wants left chopstick (1)
+Aristotle has both left chopstick (1) and right chopstick (2)
+Aristotle is begining to eat for 1253 milliseconds
+Kant is done eating
+Kant finished using right chopstick (5)
+Machiavelli wants right chopstick (6)
+Machiavelli has right chopstick (6)
+Machiavelli wants left chopstick (5)
+Kant finished using left chopstick (4)
+Kant is begining to think for 4637 milliseconds
+Machiavelli has both left chopstick (5) and right chopstick (6)
+Machiavelli is begining to eat for 2954 milliseconds
+Epicurius is done thinking
+Epicurius wants right chopstick (3)
+Epicurius has right chopstick (3)
+Epicurius wants left chopstick (2)
+Epicurius was unable to get the left chopstick (2)
+Epicurius politely returned right chopstick (3)
+Aristotle is done eating
+Aristotle finished using right chopstick (2)
+Aristotle finished using left chopstick (1)
+Epicurius wants right chopstick (3)
+Epicurius has right chopstick (3)
+Epicurius wants left chopstick (2)
+Epicurius has both left chopstick (2) and right chopstick (3)
+Aristotle is begining to think for 4561 milliseconds
+Epicurius is begining to eat for 1791 milliseconds
+Voltaire is done thinking
+Voltaire wants right chopstick (4)
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Voltaire was unable to get the left chopstick (3)
+Voltaire politely returned right chopstick (4)
+Nietzsche is done thinking
+Nietzsche wants right chopstick (7)
+Seneca is done thinking
+Seneca wants right chopstick (1)
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Machiavelli is done eating
+Machiavelli finished using right chopstick (6)
+Machiavelli finished using left chopstick (5)
+Machiavelli is begining to think for 2061 milliseconds
+Epicurius is done eating
+Epicurius finished using right chopstick (3)
+Epicurius finished using left chopstick (2)
+Epicurius is begining to think for 2785 milliseconds
+Voltaire wants right chopstick (4)
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Voltaire has both left chopstick (3) and right chopstick (4)
+Voltaire is begining to eat for 1423 milliseconds
+Socrates is done eating
+Socrates finished using right chopstick (8)
+Frege wants right chopstick (9)
+Frege has right chopstick (9)
+Frege wants left chopstick (8)
+Frege has both left chopstick (8) and right chopstick (9)
+Frege is begining to eat for 3785 milliseconds
+Hume was unable to get the left chopstick (9)
+Hume politely returned right chopstick (0)
+Nietzsche has right chopstick (7)
+Nietzsche wants left chopstick (6)
+Nietzsche has both left chopstick (6) and right chopstick (7)
+Nietzsche is begining to eat for 3900 milliseconds
+Socrates finished using left chopstick (7)
+Socrates is begining to think for 3537 milliseconds
+Voltaire is done eating
+Voltaire finished using right chopstick (4)
+Voltaire finished using left chopstick (3)
+Voltaire is begining to think for 3465 milliseconds
+Kant is done thinking
+Kant wants right chopstick (5)
+Kant has right chopstick (5)
+Kant wants left chopstick (4)
+Kant has both left chopstick (4) and right chopstick (5)
+Kant is begining to eat for 1216 milliseconds
+Machiavelli is done thinking
+Machiavelli wants right chopstick (6)
+Aristotle is done thinking
+Aristotle wants right chopstick (2)
+Aristotle has right chopstick (2)
+Aristotle wants left chopstick (1)
+Epicurius is done thinking
+Epicurius wants right chopstick (3)
+Epicurius has right chopstick (3)
+Epicurius wants left chopstick (2)
+Kant is done eating
+Kant finished using right chopstick (5)
+Kant finished using left chopstick (4)
+Kant is begining to think for 2760 milliseconds
+Socrates is done thinking
+Socrates wants right chopstick (8)
+Frege is done eating
+Frege finished using right chopstick (9)
+Frege finished using left chopstick (8)
+Hume wants right chopstick (0)
+Hume has right chopstick (0)
+Hume wants left chopstick (9)
+Hume has both left chopstick (9) and right chopstick (0)
+Socrates has right chopstick (8)
+Socrates wants left chopstick (7)
+Socrates was unable to get the left chopstick (7)
+Socrates politely returned right chopstick (8)
+Frege is begining to think for 3280 milliseconds
+Seneca was unable to get the left chopstick (0)
+Seneca politely returned right chopstick (1)
+Hume is begining to eat for 4138 milliseconds
+Nietzsche is done eating
+Nietzsche finished using right chopstick (7)
+Nietzsche finished using left chopstick (6)
+Socrates wants right chopstick (8)
+Socrates has right chopstick (8)
+Socrates wants left chopstick (7)
+Socrates has both left chopstick (7) and right chopstick (8)
+Machiavelli has right chopstick (6)
+Machiavelli wants left chopstick (5)
+Nietzsche is begining to think for 4058 milliseconds
+Machiavelli has both left chopstick (5) and right chopstick (6)
+Machiavelli is begining to eat for 1579 milliseconds
+Socrates is begining to eat for 3150 milliseconds
+Voltaire is done thinking
+Voltaire wants right chopstick (4)
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Kant is done thinking
+Kant wants right chopstick (5)
+Machiavelli is done eating
+Machiavelli finished using right chopstick (6)
+Machiavelli finished using left chopstick (5)
+Machiavelli is begining to think for 4304 milliseconds
+Kant has right chopstick (5)
+Kant wants left chopstick (4)
+Socrates is done eating
+Socrates finished using right chopstick (8)
+Socrates finished using left chopstick (7)
+Socrates is begining to think for 3208 milliseconds
+Frege is done thinking
+Frege wants right chopstick (9)
+Hume is done eating
+Hume finished using right chopstick (0)
+Hume finished using left chopstick (9)
+Seneca wants right chopstick (1)
+Seneca has right chopstick (1)
+Frege has right chopstick (9)
+Frege wants left chopstick (8)
+Hume is begining to think for 4421 milliseconds
+Frege has both left chopstick (8) and right chopstick (9)
+Frege is begining to eat for 4922 milliseconds
+Seneca wants left chopstick (0)
+Seneca has both left chopstick (0) and right chopstick (1)
+Seneca is begining to eat for 1697 milliseconds
+Aristotle was unable to get the left chopstick (1)
+Aristotle politely returned right chopstick (2)
+Nietzsche is done thinking
+Nietzsche wants right chopstick (7)
+Nietzsche has right chopstick (7)
+Nietzsche wants left chopstick (6)
+Nietzsche has both left chopstick (6) and right chopstick (7)
+Nietzsche is begining to eat for 1467 milliseconds
+Nietzsche is done eating
+Nietzsche finished using right chopstick (7)
+Nietzsche finished using left chopstick (6)
+Nietzsche is begining to think for 1432 milliseconds
+Seneca is done eating
+Seneca finished using right chopstick (1)
+Aristotle wants right chopstick (2)
+Aristotle has right chopstick (2)
+Aristotle wants left chopstick (1)
+Seneca finished using left chopstick (0)
+Aristotle has both left chopstick (1) and right chopstick (2)
+Seneca is begining to think for 3566 milliseconds
+Epicurius was unable to get the left chopstick (2)
+Epicurius politely returned right chopstick (3)
+Aristotle is begining to eat for 3916 milliseconds
+Machiavelli is done thinking
+Machiavelli wants right chopstick (6)
+Machiavelli has right chopstick (6)
+Machiavelli wants left chopstick (5)
+Socrates is done thinking
+Socrates wants right chopstick (8)
+Nietzsche is done thinking
+Nietzsche wants right chopstick (7)
+Nietzsche has right chopstick (7)
+Nietzsche wants left chopstick (6)
+Hume is done thinking
+Hume wants right chopstick (0)
+Hume has right chopstick (0)
+Hume wants left chopstick (9)
+Hume was unable to get the left chopstick (9)
+Hume politely returned right chopstick (0)
+Frege is done eating
+Frege finished using right chopstick (9)
+Hume wants right chopstick (0)
+Hume has right chopstick (0)
+Hume wants left chopstick (9)
+Socrates has right chopstick (8)
+Socrates wants left chopstick (7)
+Frege finished using left chopstick (8)
+Hume has both left chopstick (9) and right chopstick (0)
+Hume is begining to eat for 3134 milliseconds
+Frege is begining to think for 4291 milliseconds
+Seneca is done thinking
+Seneca wants right chopstick (1)
+Aristotle is done eating
+Aristotle finished using right chopstick (2)
+Epicurius wants right chopstick (3)
+Epicurius has right chopstick (3)
+Epicurius wants left chopstick (2)
+Epicurius has both left chopstick (2) and right chopstick (3)
+Epicurius is begining to eat for 4583 milliseconds
+Voltaire was unable to get the left chopstick (3)
+Voltaire politely returned right chopstick (4)
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Seneca was unable to get the left chopstick (0)
+Seneca politely returned right chopstick (1)
+Aristotle finished using left chopstick (1)
+Aristotle is begining to think for 2519 milliseconds
+Hume is done eating
+Hume finished using right chopstick (0)
+Hume finished using left chopstick (9)
+Seneca wants right chopstick (1)
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Seneca has both left chopstick (0) and right chopstick (1)
+Hume is begining to think for 3218 milliseconds
+Seneca is begining to eat for 2072 milliseconds
+Aristotle is done thinking
+Aristotle wants right chopstick (2)
+Frege is done thinking
+Frege wants right chopstick (9)
+Frege has right chopstick (9)
+Frege wants left chopstick (8)
+Seneca is done eating
+Seneca finished using right chopstick (1)
+Seneca finished using left chopstick (0)
+Seneca is begining to think for 1667 milliseconds
+Epicurius is done eating
+Epicurius finished using right chopstick (3)
+Epicurius finished using left chopstick (2)
+Voltaire wants right chopstick (4)
+Voltaire has right chopstick (4)
+Voltaire wants left chopstick (3)
+Voltaire has both left chopstick (3) and right chopstick (4)
+Aristotle has right chopstick (2)
+Kant was unable to get the left chopstick (4)
+Kant politely returned right chopstick (5)
+Epicurius is begining to think for 4554 milliseconds
+Aristotle wants left chopstick (1)
+Aristotle has both left chopstick (1) and right chopstick (2)
+Voltaire is begining to eat for 4766 milliseconds
+Aristotle is begining to eat for 1670 milliseconds
+Hume is done thinking
+Hume wants right chopstick (0)
+Hume has right chopstick (0)
+Hume wants left chopstick (9)
+Seneca is done thinking
+Seneca wants right chopstick (1)
+Aristotle is done eating
+Aristotle finished using right chopstick (2)
+Aristotle finished using left chopstick (1)
+Seneca has right chopstick (1)
+Seneca wants left chopstick (0)
+Aristotle is begining to think for 4752 milliseconds
+-----------------------------------------------
+Voltaire ate 7 times (12400 ms) and pondered 7 times (22601ms)
+Machiavelli has both left chopstick (5) and right chopstick (6)
+Machiavelli is begining to eat for 3287 milliseconds
+Nietzsche was unable to get the left chopstick (6)
+Nietzsche politely returned right chopstick (7)
+Seneca ate 7 times (16365 ms) and pondered 8 times (17631ms)
+Kant ate 5 times (9311 ms) and pondered 6 times (24772ms)
+Epicurius ate 5 times (16973 ms) and pondered 6 times (18364ms)
+Aristotle ate 7 times (17430 ms) and pondered 8 times (19982ms)
+Socrates has both left chopstick (7) and right chopstick (8)
+Aristotle ate 7 times (17430 ms) and pondered 8 times (19982ms)
+Nietzsche ate 6 times (16390 ms) and pondered 7 times (17458ms)
+Machiavelli ate 7 times (17070 ms) and pondered 7 times (19935ms)
+Epicurius ate 5 times (16973 ms) and pondered 6 times (18364ms)
+Frege was unable to get the left chopstick (8)
+Frege politely returned right chopstick (9)
+Socrates is begining to eat for 4006 milliseconds
+Frege ate 5 times (16525 ms) and pondered 6 times (22826ms)
+Voltaire ate 7 times (12400 ms) and pondered 7 times (22601ms)
+Socrates ate 6 times (15974 ms) and pondered 6 times (16178ms)
+Hume has both left chopstick (9) and right chopstick (0)
+Kant ate 5 times (9311 ms) and pondered 6 times (24772ms)
+Hume is begining to eat for 3782 milliseconds
+Seneca was unable to get the left chopstick (0)
+Seneca politely returned right chopstick (1)
+Hume ate 6 times (13834 ms) and pondered 6 times (21218ms)
+Machiavelli ate 7 times (17070 ms) and pondered 7 times (19935ms)
+Nietzsche ate 6 times (16390 ms) and pondered 7 times (17458ms)
+Socrates ate 6 times (15974 ms) and pondered 6 times (16178ms)
+Frege ate 5 times (16525 ms) and pondered 6 times (22826ms)
+Seneca ate 7 times (16365 ms) and pondered 8 times (17631ms)
+Hume ate 6 times (13834 ms) and pondered 6 times (21218ms)
